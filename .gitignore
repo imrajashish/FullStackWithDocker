@@ -1,0 +1,38 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# dotenv environment files
+.env
+.env.local
+
+# Logs
+logs/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Docker
+docker-compose.override.yml
+*.pid
+
+# Next.js
+.next/
+out/
+
+# VSCode
+.vscode/
+
+# Build artifacts
+dist/
+build/
+
+# Coverage
+coverage/
+
+# Optional: MongoDB local data volume
+mongo-data/
