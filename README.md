@@ -1,10 +1,10 @@
-# 🧩 Fullstack Assignment — Microservice-Based CRUD App
+# Fullstack Assignment — Microservice-Based CRUD App
 
 This project is a fullstack CRUD application built using **Next.js (Frontend)**, **Node.js + Express (Backend)**, and **MongoDB**. It is fully **Dockerized** and follows a scalable microservice-ready structure.
 
 ---
 
-## 🔧 Tech Stack
+## Tech Stack
 
 - **Frontend:** Next.js (React)
 - **Backend:** Node.js + Express
@@ -13,7 +13,7 @@ This project is a fullstack CRUD application built using **Next.js (Frontend)**,
 
 ---
 
-## ✨ Features
+## Features
 
 - Full CRUD operations on a `User` entity
 - RESTful API structure
